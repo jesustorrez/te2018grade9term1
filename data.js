@@ -6,7 +6,7 @@ let bDay=16
 let age=15
 let siblings=1
 let people= "help me"
-let fortnite
+let fortnitegood= "no"
 
 
 
